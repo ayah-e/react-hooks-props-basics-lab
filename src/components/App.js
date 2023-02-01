@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       <NavBar />
-      <Home />
+      <Home name = "Ayah" city = "New Jersey"/>
       <About />
     </div>
   );
